@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Encrypted messages for testing downloaded from dropbox in T1/P3
+encrypted_messages.json
