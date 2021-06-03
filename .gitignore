@@ -130,3 +130,11 @@ dmypy.json
 
 # Encrypted messages for testing downloaded from dropbox in T1/P3
 encrypted_messages.json
+
+pregunta1.py
+pregunta2.py
+pregunta3.py
+pregunta4.py
+
+private_key.txt
+public_key.txt
